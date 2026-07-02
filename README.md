@@ -2,15 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-> **Курсовая работа** по дисциплине «Технология хранения больших данных»  
-> **Студент:** Видинеев М.А. (ШАД-211)  
-> **Научный руководитель:** Зуев И.А.  
-> **РУТ (МИИТ), Академия "Высшая Инженерная Школа" (АВИШ)**  
-> **Москва, 2025 г.**
-
----
 
 ## 📋 Оглавление
 
