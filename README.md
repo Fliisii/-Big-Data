@@ -118,6 +118,8 @@ import statsmodels.api as sm
 model = sm.Logit(df['SUCCESS'], sm.add_constant(df['HEIGHTM']))
 result = model.fit()
 print(result.summary())
+```
+
 📈 Результаты
 
 Основные выводы
